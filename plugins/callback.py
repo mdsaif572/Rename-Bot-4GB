@@ -21,7 +21,7 @@ async def about(bot,update):
 async def donatecm(bot,message):
     text = script.DONATE_TXT
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin",url = "https://t.me/terminator094t"),
+        [InlineKeyboardButton("🦋 Admin",url = "https://t.me/terminator094"),
         InlineKeyboardButton("✖️ Close",callback_data = "cancel") ]])
     await message.reply_text(text = text,reply_markup = keybord)    
 
@@ -82,7 +82,7 @@ async def home_callback_handler(bot, query):
                     InlineKeyboardButton("💬 Support", url="https://t.me/csbot_ot")],
                     [InlineKeyboardButton("🛠️ Help", callback_data='help'),
 		            InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/terminator094t")]
+                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/terminator094")]
 		  ])
     await query.message.edit_text(text=text, reply_markup=keybord)
 

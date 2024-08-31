@@ -30,7 +30,7 @@ Payment Details :-
 After Payment Send Screenshots Of Payment To Admin @cloud_station9"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/terminator094t"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/terminator094"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -64,7 +64,7 @@ Payment Details :-
 After Payment Send Screenshots Of Payment To Admin @cloud_station9"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/terminator094t"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/terminator094"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     

@@ -27,8 +27,8 @@ else:
 
 
 
-# Jishu Developer 
+# Terminator 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @cloud_station9
+# Back-Up Channel @cloud_station9
+# Developer @terminator094

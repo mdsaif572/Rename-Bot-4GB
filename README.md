@@ -109,12 +109,12 @@ restart - Use This Command To Cancel All Process And Restart The Bot [Admins Onl
 - [lntechnical](https://github.com/lntechnical2)
 
 ### 😍 BOTS CHANNEL
-- [Madflix Botz](https://t.me/Madflix_Bots)
+- [Cloud Station](https://t.me/cloud_station9)
 - [Jishu Botz](https://t.me/JishuBotz)
 
 ### 💕 CONTACT DEVELOPER
-- [Jishu Developer](https://t.me/JishuDeveloper)
-- [Madflix Official](https://t.me/MadflixOfficials)
+- [Terminator](https://t.me/JishuDeveloper)
+- [Madflix Official](https://t.me/terminator094)
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/jishudeveloper/2.50USD)

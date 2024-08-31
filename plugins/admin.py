@@ -58,7 +58,7 @@ async def resetpower(bot, message):
     
     
 
-# PREMIUM POWER MODE @JISHUDEVELOPER
+# PREMIUM POWER MODE @terminator094
 @Client.on_callback_query(filters.regex('vip1'))
 async def vip1(bot,update):
     id = update.message.reply_to_message.text.split("/addpremium")
@@ -100,7 +100,7 @@ async def vip3(bot,update):
 
 
 
-# CEASE POWER MODE @JISHUDEVELOPER
+# CEASE POWER MODE @terminator094
 @Client.on_callback_query(filters.regex('cp1'))
 async def cp1(bot,update):
     id = update.message.reply_to_message.text.split("/ceasepower")
@@ -110,7 +110,7 @@ async def cp1(bot,update):
     usertype(int(user_id),"⚠️ Account Downgraded")
     addpre(int(user_id))
     await update.message.edit("Added Successfully To Upload Limit 2GB")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 2GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 2GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @cloud_station9")
 
 
 
@@ -123,12 +123,12 @@ async def cp2(bot,update):
     usertype(int(user_id),"⚠️ Account Downgraded")
     addpre(int(user_id))
     await update.message.edit("Added Successfully To Upload Limit 0GB")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 0GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYou Are Downgraded To Cease <b>Limit 0GB</b>. Check Your Plan Here /myplan \n\n<b>Contact Admin :</b> @cloud_station9")
 
 
 
 
-# RESET POWER MODE @JISHUDEVELOPER
+# RESET POWER MODE @terminator094
 @Client.on_callback_query(filters.regex('dft'))
 async def dft(bot,update):
     id = update.message.reply_to_message.text.split("/resetpower")
@@ -138,15 +138,15 @@ async def dft(bot,update):
     usertype(int(user_id),"🆓 Free")
     addpre(int(user_id))
     await update.message.edit("Daily Data Limit Has Been Reset Successfully.\n\nThis Account Has Default 2GB Remaining Capacity")
-    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYour Daily Data Limit Has Been Reset Successfully. Check Your Plan Here /myplan\n\n<b>Contact Admin :</b> @MadflixOfficials")
+    await bot.send_message(user_id, f"Hey {update.from_user.mention} \n\nYour Daily Data Limit Has Been Reset Successfully. Check Your Plan Here /myplan\n\n<b>Contact Admin :</b> @cloud_station9")
 
 
 
 
 
 
-# Jishu Developer 
+# Terminator 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Back-Up Channel @JishuBotz
-# Developer @JishuDeveloper & @MadflixOfficials
+# Telegram Channel @cloud_station9
+# Back-Up Channel @cloud_station9
+# Developer @terminator094 & @cloud_station9
